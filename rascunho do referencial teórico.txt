@@ -1,0 +1,14 @@
+Qualidade de software:  
+
+Durante o desenvolvimento de um software, todas as desições tomadas pela equipe podem comprometer a qualidade final do produto. Desta forma, todas as ações tomadas no ciclo de desenvolvimento irão afetar o produto final. Para garantir as reais especificações do produto e necessario atribuir um esforço em qualidade em todo o processo de desenvolvimento.
+
+	Uma definição abrangente sobre os conceitos de qualidade de software foi definida por BARTIÉ (2002, p. 16) "Qualidade  de software é um processo sistematico que focaliza todas as etapas e artefatos produzidos com o obketivo de garantir a conformidade de processos e produtos, prevenindo e eliminando 	defeitos".
+	
+Automação:  
+
+Testes automatizados são utilizados para evitar o trabalho manual excessivo em etapas que necessitam a execução de testes de regressão, sendo executado rapidamente sempre que necessario, contribuindo para a qualidade do software.
+
+
+Gherkin:
+
+O Gherkin é um elemento essencial quando se tem BDD (Behavior-Driven Development) na automatização de testes, com a função de padronizar a forma de descrever os senarios de teste, baseado nas regras de negocio, ele permite deixar os testes automatizados muitos mais faceis de se ler, mesmo para uma pessoa leiga.
